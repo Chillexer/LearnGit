@@ -10,7 +10,7 @@ namespace VersioneringsProjekt
             Console.WriteLine("It works");
             string test = "Det her er en test";
             Console.WriteLine(test);
-
+            //Yay Det virker Git FTW
             Console.ReadKey();
         }
     }
